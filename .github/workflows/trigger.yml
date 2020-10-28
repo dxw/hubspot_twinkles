@@ -15,4 +15,4 @@ jobs:
       - name: Hello
         run: echo "Hello, I've been triggered by a webhook!"
       - name: Payload
-        run: echo "Here's the JSON payload ${{ github.event.client_payload }}"
+        run: echo "Here's the JSON payload ${{ toJson(github.event.client_payload) }}"
