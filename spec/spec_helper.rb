@@ -1,4 +1,8 @@
+$LOAD_PATH.unshift File.join(File.dirname(__FILE__), "..", "lib")
+
+require "hubspot_twinkles"
 require "webmock/rspec"
+require "pry"
 
 RSpec.configure do |config|
   config.expect_with :rspec do |expectations|

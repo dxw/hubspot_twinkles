@@ -1,0 +1,89 @@
+{
+  "pipelineId": "1831978",
+  "stages": [
+    {
+      "stageId": "1831979",
+      "label": "Radar",
+      "probability": 0.03,
+      "active": true,
+      "displayOrder": 0,
+      "closedWon": false
+    },
+    {
+      "stageId": "1831980",
+      "label": "Potential",
+      "probability": 0.05,
+      "active": true,
+      "displayOrder": 1,
+      "closedWon": false
+    },
+    {
+      "stageId": "1831981",
+      "label": "Working on submission",
+      "probability": 0.1,
+      "active": true,
+      "displayOrder": 2,
+      "closedWon": false
+    },
+    {
+      "stageId": "1831982",
+      "label": "Submitted",
+      "probability": 0.1,
+      "active": true,
+      "displayOrder": 3,
+      "closedWon": false
+    },
+    {
+      "stageId": "1831983",
+      "label": "Proposal/Pitch",
+      "probability": 0.3,
+      "active": true,
+      "displayOrder": 4,
+      "closedWon": false
+    },
+    {
+      "stageId": "1832055",
+      "label": "Waiting on outcome",
+      "probability": 0.3,
+      "active": true,
+      "displayOrder": 5,
+      "closedWon": false
+    },
+    {
+      "stageId": "1831984",
+      "label": "Won",
+      "probability": 1.0,
+      "active": true,
+      "displayOrder": 6,
+      "closedWon": true
+    },
+    {
+      "stageId": "1831985",
+      "label": "Lost",
+      "probability": 0.0,
+      "active": true,
+      "displayOrder": 7,
+      "closedWon": false
+    },
+    {
+      "stageId": "1832056",
+      "label": "Archived",
+      "probability": 0.0,
+      "active": true,
+      "displayOrder": 8,
+      "closedWon": false
+    },
+    {
+      "stageId": "1832057",
+      "label": "No bid",
+      "probability": 0.0,
+      "active": true,
+      "displayOrder": 9,
+      "closedWon": false
+    }
+  ],
+  "label": "GovPress",
+  "active": true,
+  "displayOrder": 1,
+  "staticDefault": false
+}
