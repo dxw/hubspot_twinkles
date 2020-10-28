@@ -1,4 +1,8 @@
 name: Build
+env:
+  GOOGLE_DRIVE_JSON_KEY: ${{ secrets.GOOGLE_DRIVE_JSON_KEY }}
+  GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+  HUBSPOT_API_KEY: ${{ secrets.HUBSPOT_API_KEY }}
 
 on: [push]
 
