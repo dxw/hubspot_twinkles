@@ -1,0 +1,857 @@
+{
+  "portalId": 5106503,
+  "dealId": 2296620414,
+  "isDeleted": false,
+  "associations": {
+    "associatedVids": [164401],
+    "associatedCompanyIds": [4006848679],
+    "associatedDealIds": [],
+    "associatedTicketIds": []
+  },
+  "properties": {
+    "dealname": {
+      "value": "Education Scotland - Website hosting",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "dealname",
+          "value": "Education Scotland - Website hosting",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_all_accessible_team_ids": {
+      "value": "201635;340752;569631",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_all_accessible_team_ids",
+          "value": "201635;340752;569631",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "num_associated_contacts": {
+      "value": "1",
+      "timestamp": 1592237954057,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "num_associated_contacts",
+          "value": "1",
+          "timestamp": 1592237954057,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "createdate": {
+      "value": "1592237872432",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "createdate",
+          "value": "1592237872432",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_is_closed": {
+      "value": "false",
+      "timestamp": 1592237946115,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_is_closed",
+          "value": "false",
+          "timestamp": 1592237946115,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "days_to_close": {
+      "value": "0",
+      "timestamp": 1592293446654,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "days_to_close",
+          "value": "0",
+          "timestamp": 1592293446654,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_deal_stage_probability": {
+      "value": "0.0299999999999999988897769753748434595763683319091796875",
+      "timestamp": 1603361271679,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_deal_stage_probability",
+          "value": "0.0299999999999999988897769753748434595763683319091796875",
+          "timestamp": 1603361271679,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hubspot_owner_id": {
+      "value": "34353642",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hubspot_owner_id",
+          "value": "34353642",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "organisation_sector": {
+      "value": "Central government",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "organisation_sector",
+          "value": "Central government",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_created_by_user_id": {
+      "value": "6940317",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_created_by_user_id",
+          "value": "6940317",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_acv": {
+      "value": "11400.000",
+      "timestamp": 1598371301768,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_acv",
+          "value": "11400.000",
+          "timestamp": 1598371301768,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_projected_amount": {
+      "value": "28.4999999999999989452881266061012865975499153137207031250",
+      "timestamp": 1603361271679,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_projected_amount",
+          "value": "28.4999999999999989452881266061012865975499153137207031250",
+          "timestamp": 1603361271679,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_projected_amount_in_home_currency": {
+      "value": "28.4999999999999989452881266061012865975499153137207031250",
+      "timestamp": 1603361271679,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_projected_amount_in_home_currency",
+          "value": "28.4999999999999989452881266061012865975499153137207031250",
+          "timestamp": 1603361271679,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "notes_last_updated": {
+      "value": "1603361315676",
+      "timestamp": 1603361316991,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "notes_last_updated",
+          "value": "1603361315676",
+          "timestamp": 1603361316991,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "deal_company": {
+      "value": "Education Scotland",
+      "timestamp": 1592237953799,
+      "source": "AUTOMATION_PLATFORM",
+      "sourceId": "enrollmentId:38433865324;actionExecutionIndex:0",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "deal_company",
+          "value": "Education Scotland",
+          "timestamp": 1592237953799,
+          "sourceId": "enrollmentId:38433865324;actionExecutionIndex:0",
+          "source": "AUTOMATION_PLATFORM",
+          "sourceVid": []
+        }
+      ]
+    },
+    "business_unit": {
+      "value": "GovPress",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "business_unit",
+          "value": "GovPress",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "dealstage": {
+      "value": "1831979",
+      "timestamp": 1603361271679,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": 6940317,
+      "versions": [
+        {
+          "name": "dealstage",
+          "value": "1831979",
+          "timestamp": 1603361271679,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": [],
+          "updatedByUserId": 6940317
+        }
+      ]
+    },
+    "hs_object_id": {
+      "value": "2296620414",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_object_id",
+          "value": "2296620414",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "region": {
+      "value": "Scotland",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "region",
+          "value": "Scotland",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_sales_email_last_replied": {
+      "value": "1603357499000",
+      "timestamp": 1603357513722,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_sales_email_last_replied",
+          "value": "1603357499000",
+          "timestamp": 1603357513722,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_updated_by_user_id": {
+      "value": "6940317",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_updated_by_user_id",
+          "value": "6940317",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_closed_amount_in_home_currency": {
+      "value": "0",
+      "timestamp": 1592237946115,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_closed_amount_in_home_currency",
+          "value": "0",
+          "timestamp": 1592237946115,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_mrr": {
+      "value": "950.000",
+      "timestamp": 1598053155699,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_mrr",
+          "value": "950.000",
+          "timestamp": 1598053155699,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_all_team_ids": {
+      "value": "201635",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_all_team_ids",
+          "value": "201635",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "description": {
+      "value": "Requested a quote for hosting, maintenance and support of https://education.gov.scot/",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "description",
+          "value": "Requested a quote for hosting, maintenance and support of https://education.gov.scot/",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "amount_in_home_currency": {
+      "value": "950",
+      "timestamp": 1592238005863,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "amount_in_home_currency",
+          "value": "950",
+          "timestamp": 1592238005863,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_tcv": {
+      "value": "11400.000",
+      "timestamp": 1598371301768,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_tcv",
+          "value": "11400.000",
+          "timestamp": 1598371301768,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hubspot_team_id": {
+      "value": "201635",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hubspot_team_id",
+          "value": "201635",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_closed_amount": {
+      "value": "0",
+      "timestamp": 1592237946115,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_closed_amount",
+          "value": "0",
+          "timestamp": 1592237946115,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_analytics_source": {
+      "value": "OFFLINE",
+      "timestamp": 1592237947735,
+      "source": "DEALS",
+      "sourceId": "deal sync triggered by vid=164401",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_analytics_source",
+          "value": "OFFLINE",
+          "timestamp": 1592237947735,
+          "sourceId": "deal sync triggered by vid=164401",
+          "source": "DEALS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_arr": {
+      "value": "11400.000",
+      "timestamp": 1598371301768,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_arr",
+          "value": "11400.000",
+          "timestamp": 1598371301768,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "num_contacted_notes": {
+      "value": "5",
+      "timestamp": 1603361223169,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "num_contacted_notes",
+          "value": "5",
+          "timestamp": 1603361223169,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_createdate": {
+      "value": "1592237946115",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_createdate",
+          "value": "1592237946115",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_all_owner_ids": {
+      "value": "34353642",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_all_owner_ids",
+          "value": "34353642",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "dealtype": {
+      "value": "newbusiness",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "dealtype",
+          "value": "newbusiness",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "notes_next_activity_date": {
+      "value": "1619161200000",
+      "timestamp": 1603715564426,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "notes_next_activity_date",
+          "value": "1619161200000",
+          "timestamp": 1603715564426,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "amount": {
+      "value": "950",
+      "timestamp": 1592238005863,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "amount",
+          "value": "950",
+          "timestamp": 1592238005863,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "closedate": {
+      "value": "",
+      "timestamp": 1592293446651,
+      "source": "AUTOMATION_PLATFORM",
+      "sourceId": "enrollmentId:38508837035;actionExecutionIndex:0",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "closedate",
+          "value": "",
+          "timestamp": 1592293446651,
+          "sourceId": "enrollmentId:38508837035;actionExecutionIndex:0",
+          "source": "AUTOMATION_PLATFORM",
+          "sourceVid": []
+        }
+      ]
+    },
+    "service_phase": {
+      "value": "Live",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "service_phase",
+          "value": "Live",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_user_ids_of_all_owners": {
+      "value": "6940317",
+      "timestamp": 1592237946115,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_user_ids_of_all_owners",
+          "value": "6940317",
+          "timestamp": 1592237946115,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "pipeline": {
+      "value": "1831978",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "pipeline",
+          "value": "1831978",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "deal_source": {
+      "value": "G-Cloud",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "deal_source",
+          "value": "G-Cloud",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "framework": {
+      "value": "G-Cloud 11",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "framework",
+          "value": "G-Cloud 11",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "product_type": {
+      "value": "GovPress",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "product_type",
+          "value": "GovPress",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_lastmodifieddate": {
+      "value": "1603715564977",
+      "timestamp": 1603715564977,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_lastmodifieddate",
+          "value": "1603715564977",
+          "timestamp": 1603715564977,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hubspot_owner_assigneddate": {
+      "value": "1592237946115",
+      "timestamp": 1592237946115,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hubspot_owner_assigneddate",
+          "value": "1592237946115",
+          "timestamp": 1592237946115,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "notes_last_contacted": {
+      "value": "1603361208000",
+      "timestamp": 1603361223169,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "notes_last_contacted",
+          "value": "1603361208000",
+          "timestamp": 1603361223169,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_analytics_source_data_2": {
+      "value": "CRM_UI",
+      "timestamp": 1592237947735,
+      "source": "DEALS",
+      "sourceId": "deal sync triggered by vid=164401",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_analytics_source_data_2",
+          "value": "CRM_UI",
+          "timestamp": 1592237947735,
+          "sourceId": "deal sync triggered by vid=164401",
+          "source": "DEALS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_analytics_source_data_1": {
+      "value": "CONTACTS",
+      "timestamp": 1592237947735,
+      "source": "DEALS",
+      "sourceId": "deal sync triggered by vid=164401",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_analytics_source_data_1",
+          "value": "CONTACTS",
+          "timestamp": 1592237947735,
+          "sourceId": "deal sync triggered by vid=164401",
+          "source": "DEALS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "num_notes": {
+      "value": "11",
+      "timestamp": 1603715564426,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "num_notes",
+          "value": "11",
+          "timestamp": 1603715564426,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    }
+  },
+  "imports": [],
+  "stateChanges": []
+}

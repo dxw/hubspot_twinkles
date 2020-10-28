@@ -1,0 +1,892 @@
+{
+  "portalId": 5106503,
+  "dealId": 2923225040,
+  "isDeleted": false,
+  "associations": {
+    "associatedVids": [19451],
+    "associatedCompanyIds": [1329523450],
+    "associatedDealIds": [],
+    "associatedTicketIds": []
+  },
+  "properties": {
+    "dealname": {
+      "value": "MTVH - tvha.co.uk hosting, maintenance and support",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "dealname",
+          "value": "MTVH - tvha.co.uk hosting, maintenance and support",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_all_accessible_team_ids": {
+      "value": "201635;340752;569631",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_all_accessible_team_ids",
+          "value": "201635;340752;569631",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "num_associated_contacts": {
+      "value": "1",
+      "timestamp": 1599816159982,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "num_associated_contacts",
+          "value": "1",
+          "timestamp": 1599816159982,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "createdate": {
+      "value": "1599815655255",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "createdate",
+          "value": "1599815655255",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_is_closed": {
+      "value": "false",
+      "timestamp": 1599816159263,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_is_closed",
+          "value": "false",
+          "timestamp": 1599816159263,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "days_to_close": {
+      "value": "0",
+      "timestamp": 1599816161190,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "days_to_close",
+          "value": "0",
+          "timestamp": 1599816161190,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_deal_stage_probability": {
+      "value": "0.299999999999999988897769753748434595763683319091796875",
+      "timestamp": 1600077936316,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_deal_stage_probability",
+          "value": "0.299999999999999988897769753748434595763683319091796875",
+          "timestamp": 1600077936316,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hubspot_owner_id": {
+      "value": "34353642",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hubspot_owner_id",
+          "value": "34353642",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "organisation_sector": {
+      "value": "Housing",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "organisation_sector",
+          "value": "Housing",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_created_by_user_id": {
+      "value": "6940317",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_created_by_user_id",
+          "value": "6940317",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_acv": {
+      "value": "11400.000",
+      "timestamp": 1599820576217,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_acv",
+          "value": "11400.000",
+          "timestamp": 1599820576217,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_projected_amount": {
+      "value": "6839.999999999999746869150385464308783411979675292968750000",
+      "timestamp": 1600077936316,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_projected_amount",
+          "value": "6839.999999999999746869150385464308783411979675292968750000",
+          "timestamp": 1600077936316,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_projected_amount_in_home_currency": {
+      "value": "6839.999999999999746869150385464308783411979675292968750000",
+      "timestamp": 1600077936316,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_projected_amount_in_home_currency",
+          "value": "6839.999999999999746869150385464308783411979675292968750000",
+          "timestamp": 1600077936316,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "notes_last_updated": {
+      "value": "1601017200000",
+      "timestamp": 1601017277271,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "notes_last_updated",
+          "value": "1601017200000",
+          "timestamp": 1601017277271,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "deal_company": {
+      "value": "Metropolitan Thames Valley Housing Association",
+      "timestamp": 1599816163575,
+      "source": "AUTOMATION_PLATFORM",
+      "sourceId": "enrollmentId:48956309310;actionExecutionIndex:0",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "deal_company",
+          "value": "Metropolitan Thames Valley Housing Association",
+          "timestamp": 1599816163575,
+          "sourceId": "enrollmentId:48956309310;actionExecutionIndex:0",
+          "source": "AUTOMATION_PLATFORM",
+          "sourceVid": []
+        }
+      ]
+    },
+    "reasons_to_apply": {
+      "value": "Renewal of current hosting contract",
+      "timestamp": 1599821115070,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "reasons_to_apply",
+          "value": "Renewal of current hosting contract",
+          "timestamp": 1599821115070,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "business_unit": {
+      "value": "GovPress",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "business_unit",
+          "value": "GovPress",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "dealstage": {
+      "value": "1832055",
+      "timestamp": 1600077936316,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "dealstage",
+          "value": "1832055",
+          "timestamp": 1600077936316,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": [],
+          "requestId": "4a6a9047-f0a4-4741-a02b-b6ff56a0025a"
+        }
+      ]
+    },
+    "hs_object_id": {
+      "value": "2923225040",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_object_id",
+          "value": "2923225040",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "submission_deadline": {
+      "value": "1599782400000",
+      "timestamp": 1599821115070,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "submission_deadline",
+          "value": "1599782400000",
+          "timestamp": 1599821115070,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "region": {
+      "value": "South East",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "region",
+          "value": "South East",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_sales_email_last_replied": {
+      "value": "1600435100000",
+      "timestamp": 1600435141715,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_sales_email_last_replied",
+          "value": "1600435100000",
+          "timestamp": 1600435141715,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_updated_by_user_id": {
+      "value": "6940317",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_updated_by_user_id",
+          "value": "6940317",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_closed_amount_in_home_currency": {
+      "value": "0",
+      "timestamp": 1599816159263,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_closed_amount_in_home_currency",
+          "value": "0",
+          "timestamp": 1599816159263,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_mrr": {
+      "value": "950.000",
+      "timestamp": 1599820576217,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_mrr",
+          "value": "950.000",
+          "timestamp": 1599820576217,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_all_team_ids": {
+      "value": "201635",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_all_team_ids",
+          "value": "201635",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "amount_in_home_currency": {
+      "value": "22800",
+      "timestamp": 1599820575167,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "amount_in_home_currency",
+          "value": "22800",
+          "timestamp": 1599820575167,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_tcv": {
+      "value": "22800.000",
+      "timestamp": 1599820576217,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_tcv",
+          "value": "22800.000",
+          "timestamp": 1599820576217,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hubspot_team_id": {
+      "value": "201635",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hubspot_team_id",
+          "value": "201635",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_closed_amount": {
+      "value": "0",
+      "timestamp": 1599816159263,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_closed_amount",
+          "value": "0",
+          "timestamp": 1599816159263,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_analytics_source": {
+      "value": "OFFLINE",
+      "timestamp": 1599816159818,
+      "source": "DEALS",
+      "sourceId": "deal sync triggered by vid=19451",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_analytics_source",
+          "value": "OFFLINE",
+          "timestamp": 1599816159818,
+          "sourceId": "deal sync triggered by vid=19451",
+          "source": "DEALS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_arr": {
+      "value": "11400.000",
+      "timestamp": 1599820576217,
+      "source": "CALCULATED",
+      "sourceId": "RollupProperties",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_arr",
+          "value": "11400.000",
+          "timestamp": 1599820576217,
+          "sourceId": "RollupProperties",
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "num_contacted_notes": {
+      "value": "11",
+      "timestamp": 1600776036690,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "num_contacted_notes",
+          "value": "11",
+          "timestamp": 1600776036690,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_createdate": {
+      "value": "1599816159263",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_createdate",
+          "value": "1599816159263",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_all_owner_ids": {
+      "value": "34353642",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_all_owner_ids",
+          "value": "34353642",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "dealtype": {
+      "value": "Service",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "dealtype",
+          "value": "Service",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "notes_next_activity_date": {
+      "value": "",
+      "timestamp": 1601017277271,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "notes_next_activity_date",
+          "value": "",
+          "timestamp": 1601017277271,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "amount": {
+      "value": "22800",
+      "timestamp": 1599820575167,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "amount",
+          "value": "22800",
+          "timestamp": 1599820575167,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": [],
+          "requestId": "edd467f0-31b9-45c9-ada9-5fad77fe5330"
+        }
+      ]
+    },
+    "closedate": {
+      "value": "",
+      "timestamp": 1599816161190,
+      "source": "AUTOMATION_PLATFORM",
+      "sourceId": "enrollmentId:48956309298;actionExecutionIndex:0",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "closedate",
+          "value": "",
+          "timestamp": 1599816161190,
+          "sourceId": "enrollmentId:48956309298;actionExecutionIndex:0",
+          "source": "AUTOMATION_PLATFORM",
+          "sourceVid": []
+        }
+      ]
+    },
+    "service_phase": {
+      "value": "Live",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "service_phase",
+          "value": "Live",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_user_ids_of_all_owners": {
+      "value": "6940317",
+      "timestamp": 1599816159263,
+      "source": "CONTACTS",
+      "sourceId": "CRM_UI",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_user_ids_of_all_owners",
+          "value": "6940317",
+          "timestamp": 1599816159263,
+          "sourceId": "CRM_UI",
+          "source": "CONTACTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "pipeline": {
+      "value": "1831978",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "pipeline",
+          "value": "1831978",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "deal_source": {
+      "value": "Existing Client",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "deal_source",
+          "value": "Existing Client",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "framework": {
+      "value": "G-Cloud 11",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "framework",
+          "value": "G-Cloud 11",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "product_type": {
+      "value": "GovPress",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "product_type",
+          "value": "GovPress",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_lastmodifieddate": {
+      "value": "1601017277589",
+      "timestamp": 1601017277589,
+      "source": "CALCULATED",
+      "sourceId": null,
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_lastmodifieddate",
+          "value": "1601017277589",
+          "timestamp": 1601017277589,
+          "source": "CALCULATED",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hubspot_owner_assigneddate": {
+      "value": "1599816159263",
+      "timestamp": 1599816159263,
+      "source": "CRM_UI",
+      "sourceId": "alex.farley@dxw.com",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hubspot_owner_assigneddate",
+          "value": "1599816159263",
+          "timestamp": 1599816159263,
+          "sourceId": "alex.farley@dxw.com",
+          "source": "CRM_UI",
+          "sourceVid": []
+        }
+      ]
+    },
+    "notes_last_contacted": {
+      "value": "1600776000000",
+      "timestamp": 1600776036690,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "notes_last_contacted",
+          "value": "1600776000000",
+          "timestamp": 1600776036690,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_analytics_source_data_2": {
+      "value": "4681096",
+      "timestamp": 1599816159818,
+      "source": "DEALS",
+      "sourceId": "deal sync triggered by vid=19451",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_analytics_source_data_2",
+          "value": "4681096",
+          "timestamp": 1599816159818,
+          "sourceId": "deal sync triggered by vid=19451",
+          "source": "DEALS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_analytics_source_data_1": {
+      "value": "IMPORT",
+      "timestamp": 1599816159818,
+      "source": "DEALS",
+      "sourceId": "deal sync triggered by vid=19451",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_analytics_source_data_1",
+          "value": "IMPORT",
+          "timestamp": 1599816159818,
+          "sourceId": "deal sync triggered by vid=19451",
+          "source": "DEALS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "hs_latest_meeting_activity": {
+      "value": "1600776000000",
+      "timestamp": 1600443105056,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "hs_latest_meeting_activity",
+          "value": "1600776000000",
+          "timestamp": 1600443105056,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    },
+    "num_notes": {
+      "value": "17",
+      "timestamp": 1600443105056,
+      "source": "ENGAGEMENTS",
+      "sourceId": "ObjectPropertyUpdater",
+      "updatedByUserId": null,
+      "versions": [
+        {
+          "name": "num_notes",
+          "value": "17",
+          "timestamp": 1600443105056,
+          "sourceId": "ObjectPropertyUpdater",
+          "source": "ENGAGEMENTS",
+          "sourceVid": []
+        }
+      ]
+    }
+  },
+  "imports": [],
+  "stateChanges": []
+}
