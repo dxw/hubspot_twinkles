@@ -1,7 +1,7 @@
 module HubspotTwinkles
   class Runner
-    def initialize(json)
-      @json = JSON.parse(json)
+    def initialize(deal_id)
+      @deal_id = deal_id
     end
 
     def run!
@@ -13,7 +13,7 @@ module HubspotTwinkles
     end
 
     def deal
-      @deal ||= Hubspot::Deal.find(@json["objectId"])
+      @deal ||= Hubspot::Deal.find(@deal_id)
     end
 
     def pipeline

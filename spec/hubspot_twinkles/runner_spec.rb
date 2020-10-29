@@ -7,8 +7,8 @@ RSpec.describe HubspotTwinkles::Runner do
         .to_return(status: 200, body: File.read(File.join("spec", "fixtures", "pipeline.json")), headers: {"Content-Type" => "application/json"})
     end
 
-    subject { described_class.new(json) }
-    let(:json) { {objectId: 3244}.to_json }
+    subject { described_class.new(deal_id) }
+    let(:deal_id) { 3244 }
 
     context "if the deal is new" do
       before do
