@@ -1,4 +1,7 @@
 name: trigger
+env:
+  GOOGLE_DRIVE_JSON_KEY: ${{ secrets.GOOGLE_DRIVE_JSON_KEY }}
+  HUBSPOT_API_KEY: ${{ secrets.HUBSPOT_API_KEY }}
 
 on:
   repository_dispatch:
