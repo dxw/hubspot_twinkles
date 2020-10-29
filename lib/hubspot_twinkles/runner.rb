@@ -5,7 +5,11 @@ module HubspotTwinkles
     end
 
     def run!
-      deal_is_new?
+      spreadsheet.add_deal(deal) if deal_is_new?
+    end
+
+    def spreadsheet
+      @spreadsheet ||= HubspotTwinkles::Spreadsheet.new
     end
 
     def deal
