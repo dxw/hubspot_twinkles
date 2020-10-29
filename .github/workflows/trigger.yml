@@ -17,5 +17,7 @@ jobs:
         with:
           bundler-cache: true
       - name: Trigger import
+        env:
+          json: ${{ toJson(github.event.client_payload) }}
         run: |
-          echo "${{ github.event.client_payload }}" | bundle exec rake import
+          echo $json | bundle exec rake import
