@@ -8,6 +8,7 @@ Hubspot.configure(hapikey: ENV["HUBSPOT_API_KEY"])
 
 require "hubspot_twinkles/runner"
 require "hubspot_twinkles/spreadsheet"
+require "hubspot_twinkles/import"
 
 module HubspotTwinkles
 end
