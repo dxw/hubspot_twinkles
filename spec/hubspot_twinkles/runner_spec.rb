@@ -16,8 +16,10 @@ RSpec.describe HubspotTwinkles::Runner do
           .to_return(status: 200, body: File.read(File.join("spec", "fixtures", "new_deal.json")), headers: {"Content-Type" => "application/json"})
       end
 
-      it "returns true" do
-        expect(subject.run!).to be_truthy
+      it "adds the deal to the spreadsheet" do
+        expect(subject.spreadsheet).to receive(:add_deal).with(subject.deal)
+
+        subject.run!
       end
     end
 
@@ -27,8 +29,10 @@ RSpec.describe HubspotTwinkles::Runner do
           .to_return(status: 200, body: File.read(File.join("spec", "fixtures", "old_deal.json")), headers: {"Content-Type" => "application/json"})
       end
 
-      it "returns false" do
-        expect(subject.run!).to be_falsey
+      it "does not add the deal to the spreadsheet" do
+        expect(subject.spreadsheet).to_not receive(:add_deal)
+
+        subject.run!
       end
     end
   end
