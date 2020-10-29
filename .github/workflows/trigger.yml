@@ -12,7 +12,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Hello
-        run: echo "Hello, I've been triggered by a webhook!"
-      - name: Payload
-        run: echo "Here's the JSON payload ${{ toJson(github.event.client_payload) }}"
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Trigger import
+        run: |
+          echo "${{ toJson(github.event.client_payload) }}" | bundle exec rake import
