@@ -1,5 +1,7 @@
 module HubspotTwinkles
   class Runner
+    HUBSPOT_PIPELINE_ID = 1831978
+
     def initialize(deal_id)
       @deal_id = deal_id
     end
@@ -17,7 +19,7 @@ module HubspotTwinkles
     end
 
     def pipeline
-      @pipeline ||= Hubspot::DealPipeline.find(1831978)
+      @pipeline ||= Hubspot::DealPipeline.find(HUBSPOT_PIPELINE_ID)
     end
 
     def new_stage_ids
