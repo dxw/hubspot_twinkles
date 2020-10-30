@@ -16,11 +16,12 @@ RSpec.describe HubspotTwinkles::Spreadsheet do
   end
   let(:session) { double(:session) }
   let(:worksheet) { double(num_rows: 0, save: nil) }
-  let(:spreadsheet) { double(worksheets: [worksheet]) }
+  let(:spreadsheet) { double(:spreadsheet) }
 
   before do
     allow(GoogleDrive::Session).to receive(:from_service_account_key) { session }
-    allow(session).to receive(:spreadsheet_by_key) { spreadsheet }
+    allow(session).to receive(:spreadsheet_by_key).with(ENV["SPREADSHEET_ID"]) { spreadsheet }
+    allow(spreadsheet).to receive(:worksheet_by_sheet_id).with(ENV["WORKSHEET_ID"]) { worksheet }
   end
 
   it "adds a deal to the spreadsheet" do

@@ -43,7 +43,7 @@ module HubspotTwinkles
     end
 
     def worksheet
-      @worksheet ||= spreadsheet.worksheets[0]
+      @worksheet ||= spreadsheet.worksheet_by_sheet_id(ENV["WORKSHEET_ID"])
     end
 
     def spreadsheet
