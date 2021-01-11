@@ -17,9 +17,11 @@ GEM
     declarative-option (0.1.0)
     diff-lcs (1.4.4)
     dotenv (2.7.6)
-    faraday (1.1.0)
+    faraday (1.3.0)
+      faraday-net_http (~> 1.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
+    faraday-net_http (1.0.0)
     google-api-client (0.47.0)
       addressable (~> 2.5, >= 2.5.1)
       googleauth (~> 0.9)
@@ -67,7 +69,7 @@ GEM
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
-    octokit (4.19.0)
+    octokit (4.20.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     os (1.1.1)
@@ -157,7 +159,7 @@ DEPENDENCIES
   dotenv
   google_drive
   hubspot-ruby
-  octokit (~> 4.0)
+  octokit (~> 4.20)
   pry
   rack-test
   rake
